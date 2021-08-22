@@ -1,0 +1,19 @@
+{
+    "ModTitle": "NPCHealthIndicators",
+    "ModVersion": "1.1.1",
+    "ModAuthor": "Xorberax",
+    "DFUnity_Version": "0.10.17",
+    "ModDescription": "Adds health indicators to NPCs",
+    "GUID": "88ed5a31-7e4a-4263-9d3a-483053248b06",
+    "Files": [
+        "Assets/Game/Mods/NPCHealthIndicators/modsettings.json",
+        "Assets/Game/Mods/NPCHealthIndicators/NPCHealthIndicators.dfmod.json",
+        "Assets/Game/Mods/NPCHealthIndicators/Scripts/NpcHealthIndicator.cs",
+        "Assets/Game/Mods/NPCHealthIndicators/Scripts/NpcHealthIndicatorMod.cs",
+        "Assets/Game/Mods/NPCHealthIndicators/NPCHealthIndicator.prefab",
+        "Assets/Game/Mods/NPCHealthIndicators/Textures/middle.png",
+        "Assets/Game/Mods/NPCHealthIndicators/Textures/left.png",
+        "Assets/Game/Mods/NPCHealthIndicators/Textures/fill.png",
+        "Assets/Game/Mods/NPCHealthIndicators/Textures/right.png"
+    ]
+}
